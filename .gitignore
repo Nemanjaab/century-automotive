@@ -1,0 +1,13 @@
+# Private runtime data
+century-private-data/
+
+# Environment secrets
+.env
+.env.local
+
+# Backup files
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
